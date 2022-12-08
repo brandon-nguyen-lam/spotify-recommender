@@ -6,6 +6,7 @@
 cd packages/backend/
 unzip data.zip
 rm data.zip
+
 pip install spotipy
 pip install numpy
 pip install scikit-learn
@@ -15,7 +16,7 @@ pip install requests
 ## Running the program
 
 ```
-python3 spotify.py [playlist_link_here]
+python spotify.py [playlist_link_here]
 ```
 
 ## Important Information
