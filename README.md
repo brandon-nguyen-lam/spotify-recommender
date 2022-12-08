@@ -1,6 +1,6 @@
 # Spotify Recommender
 ![Example Image](example.png)
-
+(https://open.spotify.com/playlist/2f64bv5oUNyUFQ2gUwfTA1?si=nif_aP2ZT2KAwoS7iptzKA)
 ## Getting Started
 ```
 pip install spotipy
