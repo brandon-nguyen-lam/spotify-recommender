@@ -15,4 +15,7 @@ pip install requests
 python3 spotify.py [playlist_link_here]
 ```
 
+## Important Information
+- Dataset has 600k songs from 1920-2020
+- The recommended songs do NOT put weight on date released for songs
 
