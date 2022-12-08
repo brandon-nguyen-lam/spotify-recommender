@@ -1,5 +1,5 @@
 # Spotify Recommender
-! (Example Image)[example.png)
+![Example Image](example.png)
 
 ## Getting Started
 ```
