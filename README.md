@@ -1,12 +1,11 @@
 # Spotify Recommender
 ![Example Image](example.png)
-(https://open.spotify.com/playlist/2f64bv5oUNyUFQ2gUwfTA1?si=nif_aP2ZT2KAwoS7iptzKA)
+[Playlist Used](https://open.spotify.com/playlist/2f64bv5oUNyUFQ2gUwfTA1?si=nif_aP2ZT2KAwoS7iptzKA)
 ## Getting Started
-```
-cd packages/backend/
-unzip data.zip
-rm data.zip
 
+Download the [data](https://www.dropbox.com/scl/fo/4skf0zta047i01rl0e4fw/h?dl=0&rlkey=cfjcokgffymbayn3dnblewp7v) from DropBox and put inside the backend folder with spotify.py. After that, install these packages.
+
+```
 pip install spotipy
 pip install numpy
 pip install scikit-learn
