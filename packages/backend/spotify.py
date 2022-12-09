@@ -18,8 +18,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from spotipy.oauth2 import SpotifyOAuth
 import spotipy.util as util
 
-client_id = "5054c4b31c3e4ff7aebe6a986535443a"
-client_secret = "fc27c9276154423da8a24c6a545d34d9"
+client_id = "client_id"
+client_secret = "client_secret"
 scope = 'user-library-read'
 
 if len(sys.argv) > 1:
